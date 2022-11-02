@@ -221,7 +221,7 @@ const HomePage = ({ data }) => {
           />
           <Link
             to={frontmatter.cta.ctaLink}
-            className="button"
+            className="button" id="know-more-btn"
             sx={{
               variant: "variants.button",
             }}

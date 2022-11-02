@@ -80,7 +80,7 @@ export default Navigation
 const navStyle = {
   menu: {
     ul: {
-      bg: "siteColor",
+      
     },
   },
   theme: {
