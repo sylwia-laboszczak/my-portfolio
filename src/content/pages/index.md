@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I am a novice front-end developer and UI Designer. Not long ago I completed a course at the InfoShare Academy. I am mainly interested in javascript and creating the appearance of the user interface. I know Html, Css and Figma tool well. I have great enthusiasm for work, self-development, passion and the ability to learn quickly.
