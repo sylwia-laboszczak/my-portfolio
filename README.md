@@ -6,15 +6,9 @@
 <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
 </a>
 
-# Foundation
+# About me 
+To visit my portfolio click [here](https://bespoke-biscotti-ad486c.netlify.app)
 
-A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
-
-Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
-
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundation.stackrole.com)
 
 ## 👌 Features
 
@@ -51,14 +45,19 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 
 ### Further Instructions
 
-- [Access to Netlify CMS](#access-to-netlify-cms)
-- [Editing content and Adding posts](#editing-content-and-adding-posts)
-- [Customing Site details](#customing-site-details)
-- [Adding Custom domain to netlify website](#adding-custom-domain-to-netlify-website)
-- [Install Locally](#install-locally)
-- [Folder Structure](#folder-structure)
-- [Learning Gatsby](#learning-gatsby)
-- [Thank you from Stackrole](#thank-you)
+- [About me](#about-me)
+  - [👌 Features](#-features)
+  - [🚀 Quick Deploy](#-quick-deploy)
+    - [Further Instructions](#further-instructions)
+  - [⚙ Access to Netlify CMS](#-access-to-netlify-cms)
+  - [📝 Editing content and Adding posts](#-editing-content-and-adding-posts)
+  - [⚙ Customing Site details](#-customing-site-details)
+  - [🌐 Adding Custom domain to netlify website](#-adding-custom-domain-to-netlify-website)
+  - [🖥 Install Locally](#-install-locally)
+    - [Start developing](#start-developing)
+  - [📁 Folder Structure](#-folder-structure)
+  - [🎓 Learning Gatsby](#-learning-gatsby)
+  - [🙏 Thank you](#-thank-you)
 
 ## ⚙ Access to Netlify CMS
 
