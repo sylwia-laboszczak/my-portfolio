@@ -1,15 +1,12 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+title: Dream project
+slug: /dream-project
+date: 2020-07-04 20:20
+description: My first homework from UI training course
+featuredImage: /assets/2022-11-02-first-project.jpg
 ---
-
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
-
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+My first project on the UI Designer course was a website loading page that needed to be mapped. Some elements were quite difficult to reproduce and had to be drawn by yourself. The photo in png format have also been changed.
 
 ## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
 
