@@ -63,7 +63,7 @@ class Navigation extends React.Component {
             <RiCloseLine />
           </div>
         </button>
-        <ul>
+        <ul id="nav-btn-holder">
           {listMenuItems}
           <div sx={navStyle.border}></div>
           <div sx={navStyle.theme}>
@@ -80,7 +80,7 @@ export default Navigation
 const navStyle = {
   menu: {
     ul: {
-      
+      bg: "siteColor",
     },
   },
   theme: {
