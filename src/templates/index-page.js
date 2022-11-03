@@ -79,20 +79,20 @@ const HomePage = ({ data }) => {
   const sIcons = Icons.socialIcons.map((icons, index) => {
     return (
       <div key={"social icons" + index}>
-        {icons.icon === "facebook" ? (
+        {/* {icons.icon === "facebook" ? (
           <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
             <RiFacebookBoxFill alt="Facebook icon"/>
           </a>
         ) : (
           ""
-        )}
-        {icons.icon === "twitter" ? (
+        )} */}
+        {/* {icons.icon === "twitter" ? (
           <a href={icons.url} target="_blank" aria-label="link to Twitter" rel="noopener noreferrer">
             <RiTwitterFill alt="Twitter icon"/>
           </a>
         ) : (
           ""
-        )}
+        )} */}
         {icons.icon === "linkedin" ? (
           <a href={icons.url} target="_blank" aria-label="link to Linkedin" rel="noopener noreferrer">
             <RiLinkedinBoxFill alt="Linkedin icon"/>
@@ -100,20 +100,20 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "youtube" ? (
+        {/* {icons.icon === "youtube" ? (
           <a href={icons.url} target="_blank" aria-label="link to Youtube" rel="noopener noreferrer">
             <RiYoutubeFill alt="Youtube icon" />
           </a>
         ) : (
           ""
-        )}
-        {icons.icon === "instagram" ? (
+        )} */}
+        {/* {icons.icon === "instagram" ? (
           <a href={icons.url} target="_blank" aria-label="link to Instagram" rel="noopener noreferrer">
             <RiInstagramFill alt="Instagram icon" />
           </a>
         ) : (
           ""
-        )}
+        )} */}
         {icons.icon === "rss" ? (
           <a href={icons.url} target="_blank" aria-label="link to RSS" rel="noopener noreferrer">
             <RiRssFill alt="RSS icon" />
@@ -163,34 +163,34 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "dribbble" ? (
+        {/* {icons.icon === "dribbble" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />
           </a>
         ) : (
           ""
-        )}
-        {icons.icon === "medium" ? (
+        )} */}
+        {/* {icons.icon === "medium" ? (
           <a href={icons.url} target="_blank" aria-label="link to Medium" rel="noopener noreferrer">
             <RiMediumFill alt="Medium icon" />
           </a>
         ) : (
           ""
-        )}
-        {icons.icon === "behance" ? (
+        )} */}
+        {/* {icons.icon === "behance" ? (
           <a href={icons.url} target="_blank" aria-label="link to Behance" rel="noopener noreferrer">
             <RiBehanceFill alt="Behance icon" />
           </a>
         ) : (
           ""
-        )}
-        {icons.icon === "vk" ? (
+        )} */}
+        {/* {icons.icon === "vk" ? (
           <a href={icons.url} target="_blank" aria-label="link to vk" rel="noopener noreferrer">
             <FaVk alt="vk icon" />
           </a>
         ) : (
           ""
-        )}
+        )} */}
       </div>
     )
   })

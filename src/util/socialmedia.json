@@ -1,17 +1,19 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "icon": "github",
+      "url": "https://github.com/sylwia-laboszczak"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.linkedin.com/in/sylwia-laboszczak/"
     },
+
+    {
+      "icon": "facebook",
+      "url": ""
+    },
+
     {
       "icon": "youtube",
       "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
