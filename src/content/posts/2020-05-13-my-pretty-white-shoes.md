@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
+title: The whole world in One Place
 slug: /gaming-extravaganza
-date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+date: 2022-11-07
+description: Discover the most unique places
+featuredImage: /assets/the-whole-world-in-one-place.jpg
 ---
 
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+"Discovery consist not in seeking new lands but in seeing with new eyes"

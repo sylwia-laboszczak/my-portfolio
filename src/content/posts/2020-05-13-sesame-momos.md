@@ -1,10 +1,11 @@
 ---
 template: blog-post
-title: Sesame Momos & Gaming
-slug: /sesame-momos
-date: 2020-05-13 12:47
-description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+title: Identify your plants
+slug: /plants app
+date: 2022-11-07
+description: Plant identyfication
+featuredImage: /assets/plants-app.jpg
 ---
 
-Sesame Momos
+
+Application view for recognizing and treating plants

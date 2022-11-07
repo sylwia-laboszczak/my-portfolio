@@ -6,11 +6,11 @@ title: About me
 
 I'm meticulous frontend web developer and UI Designer seeking an entry-level position to use my skills in coding, creating the appearance of the user interface, troubleshooting complex problems and assisting in the timely competition of the projects. I'm well organized and highly adaptable individual, who is able to accomplish multiple tasks at ease, without compromising on quality.
 
-Below the courses I compleated:
+ The courses I have attandent:
 
-![Toys](/assets/junior-front-end-developer.jpg "certyfikat")
+![Cert_JS](/assets/junior-front-end-dev.jpg "certyfikat frontend dev")
 
-![Toys](/assets/ui-designer-certyfikat.jpg "certyfikat")
+![Cert_UI](/assets/ui-designer.jpg "certyfikat UI designer")
 
 Hi everyone!
 
@@ -28,3 +28,16 @@ For this reason, every day I devoted my time to studing, building a portfolio, a
 My course ended with a group project, where I learned how to work in a group, I saw how to work with the version control system and what inconveniences may await for me in a future work. After the course I realized that it would be worthwhile to end the UI Designer course because frontend and ui are related to the same issue.
 After 5 years of work in accounting, I got used to continuous learning, but after completing both ISA courses, I realized that IT requires a lot more dedication and time. My 5 years of experience in solving hard financial problems under time pressure have strengthened
  my character traits such as meticulousness and punctuality. Therefore, now I feel that the IT industry is great place for me to further develop my soft and technical skills.
+
+
+
+ <bold> Conferences 2022:</bold>
+
+ 1.Womentechstyle: "Jak uniknąc nieproszonych gości -WAFw chmurze"- Aleksandra Kornecka
+
+ 2.Womentechstyle: "Cohesion & coupling-zdrowe związki,poradnik programisty"- Kinga Gaździńska
+
+ 3.Tech3camp: "JS Frameworks"
+
+ 4.Infoshare 2022- Where visionaries and engineers come together (6-7 October,Gdańsk)
+ 
