@@ -95,7 +95,17 @@ const Post = ({ data, pageContext }) => {
         <header className="featured-banner">
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
-            <time sx={{color: "muted"}}>{frontmatter.date}</time>
+            <time sx={{ color: "muted" }}>{frontmatter.date}</time>
+            {frontmatter.link ? (
+              <p>
+                Live demo available at:{" "}
+                <a href={frontmatter.link} target="_blank">
+                  link
+                </a>
+              </p>
+            ) : (
+              ""
+            )}
           </section>
           {Image ? (
             <GatsbyImage
@@ -130,6 +140,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
+        link
         description
         featuredImage {
           childImageSharp {
