@@ -40,7 +40,7 @@ const Contact = ({ data }) => {
           className="description"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-        <form
+        {/* <form
           className="contact-form"
           action="/thanks"
           name="contact"
@@ -86,7 +86,7 @@ const Contact = ({ data }) => {
               </span>
             </button>
           </p>
-        </form>
+        </form> */}
       </div>
     </Layout>
   )

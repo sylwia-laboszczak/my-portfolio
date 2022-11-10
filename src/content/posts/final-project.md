@@ -1,7 +1,7 @@
 ---
 title: Final project of UI Designer and Front-end Bootcamp
 template: blog-post
-date: 2022-11-07
+date: 2022-11-11
 link: https://najemnicy.netlify.app/
 slug: /final project RWD
 featuredImage: /assets/najemnicy.jpg
