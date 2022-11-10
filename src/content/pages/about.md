@@ -37,13 +37,13 @@ Confirmation of qualifications:
  <bold>  The Conferences 2022:</bold>
 
 
- 1.Infoshare 2022- Where visionaries and engineers come together , Gdańsk(6-7 October).
+ 1. Infoshare 2022- Where visionaries and engineers come together , Gdańsk(6-7 October).
 
- 2.Womentechstyle: "Jak uniknąc nieproszonych gości -WAFw chmurze"- Aleksandra Kornecka, On-line ( 27 October).
+ 2. Womentechstyle: "Jak uniknąc nieproszonych gości -WAFw chmurze"- Aleksandra Kornecka, On-line ( 27 October).
 
- 3.Womentechstyle: "Cohesion & coupling-zdrowe związki,poradnik programisty"- Kinga Gaździńska , On-line (27 October).
+ 3. Womentechstyle: "Cohesion & coupling-zdrowe związki,poradnik programisty"- Kinga Gaździńska , On-line (27 October).
 
- 4.Tech3camp: "JS Frameworks", On-line (8 November).
+ 4. Tech3camp: "JS Frameworks", On-line (8 November).
 
 
  
