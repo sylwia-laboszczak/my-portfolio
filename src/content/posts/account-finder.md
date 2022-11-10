@@ -10,6 +10,6 @@ featuredImage: /assets/account-finder-github.jpg
 
 Hey,
  The next little step is behind me.
- Thist time i want to  show you a github finder.
- Checked and found out how it works at the link above.
+ Thist time I want to  show you a github finder.
+ Check out how it works at the link above.
 
