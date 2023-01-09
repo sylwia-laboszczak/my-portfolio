@@ -7,25 +7,27 @@ title: About me
 
 
 
-Hi everyone!
-
-I'm meticulous frontend web developer and UI Designer seeking an entry-level position to use my skills in coding, creating the appearance of the user interface, troubleshooting complex problems and assisting in the timely competition of the projects. I'm well organized and highly adaptable individual, who is able to accomplish multiple tasks at ease, without compromising on quality.
 
 
-In December 2021, I made a decision to change something in my life. After 5 years of work as an accountant and HR, I decided to take up a new challenge and test myself in a completely new field, which is Web Development. First, I signed up for a 6-month frontend bootcamp.
-During the training I encountered many new issues, knowned programming tools and met many other IT enthusiasts from different working domains.
-As with any new adventures, the first steps are the hardest and in my case it was no exception.
-The first classes although basic for a person who had nothing to do with programming, were a challenge for me and came with difficulty.
-With every homework and hour spent, and with knowledge gain, I began to see the results.
-Hitting your target in one shot is unattainable and very overwhelming.
+Hi everyone! 
+
+After working as an accountant and payroll team leader for 5 years, I decided to pursue my interest in Web Development, new trends and new technologies. I signed up for a 6-month frontend bootcamp at InfoShare Academy in December 2021.
+
+<strong>Tech skills: React (with styled-components), JavaScript, HTML5, CSS3, Git Version Control, REST API, Scrum/ Jira, Firebase/Firestore/ UI Designer- Figma/Figjam, Agile and Scrum methodologies.</strong>
+
+<strong>Soft skills: excellent team worker and works well on her own, strong communication, effective time management, works well under pressure</strong>
 
 During my course someone told me that <strong>"Success is the sum of small efforts repeated day in and day out"</strong>.
-For this reason, every day I devoted my time to studing, building a portfolio, and participating in conferences.
-My course ended with a group project, where I learned how to work in a group, I saw how to work with the version control system and what inconveniences may await for me in a future work. After the course I realized that it would be worthwhile to end the UI Designer course because frontend and ui are related to the same issue.
-After 5 years of work in accounting, I got used to continuous learning, but after completing both ISA courses, I realized that IT requires a lot more dedication and time. My 5 years of experience in solving hard financial problems under time pressure have strengthened
- my character traits such as meticulousness and punctuality. Therefore, now I feel that the IT industry is great place for me to further develop my soft and technical skills.
+My course ended with a group project, where I learned how to work in a group, share knowledge and collaborate with others. I learned how to work with the version control system and what inconveniences may await for me in the future. After the course I realized that it would be worthwhile to take the UI Designer course as frontend and UI are interrelated.
+After 5 years of work in accounting, I got used to continuous learning, but after completing both ISA courses, I realized that IT requires a lot more dedication and time. My 5 years of experience in solving hard financial problems under time pressure have strengthened  my character traits such as meticulousness and punctuality. Therefore, now I feel that the IT industry is great place for me to further develop my soft and technical skills.
 
-Confirmation of qualifications:
+I am a meticulous frontend web developer and UI Designer seeking an entry-level position to use my skills in coding, creating the appearance of the user interface, troubleshooting complex problems and assisting in the timely competition of the projects. I am a well organized and highly adaptable individual, who is able to accomplish multiple tasks at ease, without compromising on quality.
+
+Everyday I devote my time to studying, building a portfolio, and participating in conferences. See the rest of my website.
+
+IT is a natural progression for my interests in anything that can challenge me. I’m ready to learn  and grow. I embrace ambiguity and methods that can help resolve it.
+
+Qualifications:
 
 ![Cert_JS](/assets/junior-front-end-dev.jpg "certyfikat frontend dev")
 
@@ -34,16 +36,11 @@ Confirmation of qualifications:
  
  
  
- <bold>  The Conferences 2022:</bold>
+ <bold>  Conferences that I attended:</bold>
 
-
- 1. Infoshare 2022- Where visionaries and engineers come together , Gdańsk(6-7 October).
-
- 2. Womentechstyle: "Jak uniknąc nieproszonych gości -WAFw chmurze"- Aleksandra Kornecka, On-line ( 27 October).
-
- 3. Womentechstyle: "Cohesion & coupling-zdrowe związki,poradnik programisty"- Kinga Gaździńska , On-line (27 October).
-
- 4. Tech3camp: "JS Frameworks", On-line (8 November).
-
+1. Tech3camp: <strong>"JS Frameworks"</strong>, On-line (8 November 2022).
+2. Womentechstyle: <strong>"Cohesion & coupling-zdrowe związki,poradnik programisty"</strong>- Kinga Gaździńska , On-line (27 October 2022).
+3. Womentechstyle: <strong>"Jak uniknąc nieproszonych gości -WAFw chmurze"</strong>- Aleksandra Kornecka, On-line ( 27 October 2022).
+4. Infoshare 2022- <strong>“Where visionaries and engineers come together”</strong>, Gdańsk (6-7 October 2022).
 
  
