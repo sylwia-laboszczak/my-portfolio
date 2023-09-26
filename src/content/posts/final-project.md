@@ -1,8 +1,10 @@
 ---
-title: Final project of UI Designer and Front-end Bootcamp
+title: Final project of UI Designer and Front-end Bootcamp 
 template: blog-post
 date: 2022-11-11
-link: https://najemnicy.netlify.app/
+demoLink: https://najemnicy.netlify.app/
+figmaLink: https://www.figma.com/file/rXj3y2EmejbFd4AE4MUPEw/Sylwia-%C5%81aboszczak--projekt-strony-do-najmu-mieszka%C5%84?type=design&node-id=0-1&mode=design&t=yetwMpWTsffmyqzZ-0
+githubLink: https://github.com/sylwia-laboszczak/jfdzr6-team-squeezed
 slug: /final project RWD
 featuredImage: /assets/najemnicy.jpg
 description: View of rental aplication

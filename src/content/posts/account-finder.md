@@ -3,7 +3,8 @@ template: blog-post
 title: Account finder 
 slug: /account finder on github
 date: 2022-11-11
-link: https://sylwia-laboszczak.github.io/account-finder/
+demoLink: https://sylwia-laboszczak.github.io/account-finder/
+githubLink: https://github.com/sylwia-laboszczak/account-finder
 description: github finder
 featuredImage: /assets/account-finder-github.jpg
 ---

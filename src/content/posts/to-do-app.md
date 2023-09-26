@@ -3,7 +3,8 @@ template: blog-post
 title: Todos app in React
 slug: /todoapp
 date: 2022-11-11
-link: https://sylwia-laboszczak.github.io/to-do-app/
+demoLink: https://sylwia-laboszczak.github.io/to-do-app/
+githubLink: https://github.com/sylwia-laboszczak/to-do-app/
 description: Todos app
 featuredImage: /assets/todos-app.jpg
 ---

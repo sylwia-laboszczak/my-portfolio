@@ -1,8 +1,9 @@
 ---
 template: blog-post
-title: Shopping basket 
+title: Shopping basket created in Figma
 slug: /basket
 date: 2022-11-07
+figmaLink: https://www.figma.com/file/kp0zeFFqW5lMxAvwWPUFJF/Sylwia-%C5%81aboszczak-koszyk?type=design&mode=design&t=yetwMpWTsffmyqzZ-0/
 description: 
 featuredImage: /assets/bucikow-shopp.jpg
 ---

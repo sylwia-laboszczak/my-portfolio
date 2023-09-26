@@ -2,7 +2,8 @@
 template: blog-post
 slug: /candy crusher
 date: 2022-11-11 
-link: https://sylwia-laboszczak.github.io/candy-crusher/
+demoLink: https://sylwia-laboszczak.github.io/candy-crusher/
+githubLink: https://github.com/sylwia-laboszczak/candy-crusher/
 title: Simple game "CANDY CRUSHER"
 featuredImage: /assets/candy-crush.jpg
 ---

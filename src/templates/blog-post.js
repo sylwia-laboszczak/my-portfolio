@@ -27,25 +27,26 @@ const styles = {
 const Pagination = props => (
   <div className="pagination -post" sx={styles.pagination}>
     <ul>
-      {props.previous && props.previous.frontmatter.template === "blog-post" && (
-        <li>
-          <Link to={props.previous.frontmatter.slug} rel="prev">
-            <p
-              sx={{
-                color: "muted",
-              }}
-            >
-              <span className="icon -left">
-                <RiArrowLeftLine />
-              </span>{" "}
-              Previous
-            </p>
-            <span className="page-title">
-              {props.previous.frontmatter.title}
-            </span>
-          </Link>
-        </li>
-      )}
+      {props.previous &&
+        props.previous.frontmatter.template === "blog-post" && (
+          <li>
+            <Link to={props.previous.frontmatter.slug} rel="prev">
+              <p
+                sx={{
+                  color: "muted",
+                }}
+              >
+                <span className="icon -left">
+                  <RiArrowLeftLine />
+                </span>{" "}
+                Previous
+              </p>
+              <span className="page-title">
+                {props.previous.frontmatter.title}
+              </span>
+            </Link>
+          </li>
+        )}
       {props.next && props.next.frontmatter.template === "blog-post" && (
         <li>
           <Link to={props.next.frontmatter.slug} rel="next">
@@ -96,10 +97,31 @@ const Post = ({ data, pageContext }) => {
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
             <time sx={{ color: "muted" }}>{frontmatter.date}</time>
-            {frontmatter.link ? (
+            {frontmatter.demoLink ? (
               <p>
                 Live demo available at:{" "}
-                <a href={frontmatter.link} target="_blank">
+                <a href={frontmatter.demoLink} target="_blank">
+                  link
+                </a>
+              </p>
+            ) : (
+              ""
+            )}
+            {frontmatter.figmaLink ? (
+              <p>
+                Figma mockups available at:{" "}
+                <a href={frontmatter.figmaLink} target="_blank">
+                  link
+                </a>
+              </p>
+            ) : (
+              ""
+            )}
+
+            {frontmatter.githubLink ? (
+              <p>
+                Github source code available at:{" "}
+                <a href={frontmatter.githubLink} target="_blank">
                   link
                 </a>
               </p>
@@ -140,7 +162,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
-        link
+        demoLink
+        figmaLink
+        githubLink
         description
         featuredImage {
           childImageSharp {

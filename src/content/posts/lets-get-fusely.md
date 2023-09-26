@@ -1,9 +1,10 @@
 ---
 template: blog-post
-title: First page in Vanilla JS
+title: First page in Vanilla JS 
 slug: /lets-get-fusely
 date: 2022-11-11
-link: https://sylwia-laboszczak.github.io/learning-rwd-fusely/
+demoLink: https://sylwia-laboszczak.github.io/learning-rwd-fusely/
+githubLink: https://github.com/sylwia-laboszczak/learning-rwd-fusely/
 description: Lets-get-fusely
 featuredImage: /assets/lets-get-fusely.jpg
 ---
