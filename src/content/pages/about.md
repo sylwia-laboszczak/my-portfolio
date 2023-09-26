@@ -32,6 +32,7 @@ Qualifications:
 ![Cert_JS](/assets/junior-front-end-dev.jpg "certyfikat frontend dev")
 
 ![Cert_UI](/assets/ui-designer.jpg "certyfikat UI designer")
+![Cert_Java](/assets/java-cert.jpg "certyfikat of Completion Java")
 
  
  
