@@ -4,6 +4,7 @@ title: Resume created in Vanilla JS
 slug: /resume
 date: 2023-09-26
 githubLink: https://github.com/sylwia-laboszczak/resume-with-flexbox
+demoLink: https://sylwia-laboszczak.github.io/resume-with-flexbox/
 description: Create your own resume!!
 featuredImage: /assets/resume-card.jpg
 ---
