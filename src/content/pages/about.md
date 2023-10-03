@@ -33,7 +33,7 @@ Qualifications:
 
 ![Cert_UI](/assets/ui-designer.jpg "certyfikat UI designer")
 ![Cert_Java](/assets/java-cert.jpg "certyfikat of Completion Java")
-![Cert_Design](/assets/design-thinking "workshops of design thinking method")
+![Cert_Design](/assets/design-thinking.jpg "workshops of design thinking method")
 
  
  
